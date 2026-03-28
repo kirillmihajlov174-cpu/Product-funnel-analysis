@@ -1,0 +1,6 @@
+stage,users,conversion_from_previous,drop_off_from_previous,conversion_from_start
+Landing viewed,5000,1.0,0.0,1.0
+Signed up,3216,0.6432,0.3568,0.6432
+KYC completed,2197,0.6831467661691543,0.31685323383084574,0.4394
+Deposit made,1268,0.5771506599908967,0.42284934000910335,0.2536
+First trade,839,0.6616719242902208,0.3383280757097792,0.1678
